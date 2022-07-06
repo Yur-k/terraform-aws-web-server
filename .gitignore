@@ -1,0 +1,4 @@
+.directory
+.terraform.lock.hcl
+.terraform/
+terraform.tfstate*
